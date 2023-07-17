@@ -1,4 +1,4 @@
-# Open Moov: Keeping VanMoof Bikes Mooving
+# OpenMoof: Keeping VanMoof Bikes Mooving
 
 VanMoof, a renowned bike company, is currently facing financial difficulties that could lead to its downfall. As a result, the future of VanMoof bikes is at risk. 
 
