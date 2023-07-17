@@ -7,6 +7,9 @@ However, there is a big community with talented vanMoof riders that try to keep 
 In today's world, with advancements in 3D printing and open-source microcontrollers like Arduino, there are abundant possibilities for finding alternative solutions. This repository serves as a curated list of initiatives aimed at keeping your VanMoof bike in motion.
 
 ## Software
+#### [Bikey App](https://bikey-app.cowboy.bike/)
+App made by the software team at Cowboy. Save your bike key on your phone and keep riding. Access to your bike's basic settings.
+
 #### [Key Exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 The encryption key is crucial for communicating with your bike. Losing this key means losing the ability to interact with your bike altogether.
 
