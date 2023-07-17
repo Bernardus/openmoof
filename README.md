@@ -19,6 +19,8 @@ An open source Web Bluetooth based controller for VanMoof bikes. This tool can b
 ## Hardware
 #### [Successful eShifter Repair S3](https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/)
 
+#### [S3 with Shimano Alfine manual gear shift - DIY Project](https://link.medium.com/fCEAVxWr8Ab)
+
 ## Repairs
 #### [FixmyMoof](https://fixmymoof.com/)
 This platform helps you locate VanMoof Certified Workshops near you, enabling you to fix your vanMoof while supporting small local businesses!
