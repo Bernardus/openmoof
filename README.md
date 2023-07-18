@@ -7,20 +7,20 @@ However, there is a big community with talented vanMoof riders that try to keep 
 In today's world, with advancements in 3D printing and open-source microcontrollers like Arduino, there are abundant possibilities for finding alternative solutions. This repository serves as a curated list of initiatives aimed at keeping your VanMoof bike in motion.
 
 ## Software
-#### [Bikey App](https://bikey-app.cowboy.bike/)
-App made by the software team at Cowboy. Save your bike key on your phone and keep riding. Access to your bike's basic settings.
-
 #### [Key Exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 The encryption key is crucial for communicating with your bike. Losing this key means losing the ability to interact with your bike altogether.
 
-### [decode-vanmoof-blt-packages (S3)](https://github.com/mjarkk/decode-vanmoof-blt-packages)
+#### [decode-vanmoof-blt-packages (S3)](https://github.com/mjarkk/decode-vanmoof-blt-packages)
 A tool to decode the VanMoof Bluetooth packages. This tool can be used to decode the Bluetooth packages that are sent from and to a VanMoof S3 bike.
 
-### [Mooovy.app (S3)](https://github.com/mjarkk/vanmoof-web-controller)
+#### [Mooovy.app (S3)](https://github.com/mjarkk/vanmoof-web-controller)
 An open source Web Bluetooth based controller for VanMoof bikes. This tool can be used to control basic functions of your bike.
 
+#### [Bikey App](https://bikey-app.cowboy.bike/)  **NOT OPEN SOURCE**
+App made by the software team at Cowboy. Save your bike key on your phone and keep riding. Access to your bike's basic settings.
+
 ## Hardware
-#### [Successful eShifter Repair S3](https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/)
+App made by the software team at Cowboy. Save your bike key on your phone and keep riding. Access to your bike's basic settings.#### [Successful eShifter Repair S3](https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/)
 
 #### [S3 with Shimano Alfine manual gear shift - DIY Project](https://link.medium.com/fCEAVxWr8Ab)
 
@@ -30,8 +30,10 @@ This platform helps you locate VanMoof Certified Workshops near you, enabling yo
 
 ## Resources
 #### [vanMoof Subreddit](https://www.reddit.com/r/vanmoofbicycle/)
-#### [vanMoofSelfRepair](https://www.reddit.com/r/VanMoofSelfRepair)
+#### [vanMoofSelfRepair Subreddit](https://www.reddit.com/r/VanMoofSelfRepair)
 
+#### [vanMoof Patents](https://www.patentguru.com/assignee/vanmoof-b-v)
+An overview off all the vanMoof Patents (Credits by [u/sjorsp](https://www.reddit.com/r/vanmoofbicycle/comments/151dfez/comment/jsb8zgf/?utm_source=share&utm_medium=web2x&context=3))
 
 ## Contribute
 The community is in need of information to reverse engineer and develop alternative solutions for keeping VanMoof bikes operational. If you possess any knowledge, resources, or expertise that can contribute to this effort, we invite you to share it with the community. Here are some ways you can get involved:
