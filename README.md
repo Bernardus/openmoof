@@ -20,7 +20,7 @@ An open source Web Bluetooth based controller for VanMoof bikes. This tool can b
 App made by the software team at Cowboy. Save your bike key on your phone and keep riding. Access to your bike's basic settings.
 
 ## Hardware
-App made by the software team at Cowboy. Save your bike key on your phone and keep riding. Access to your bike's basic settings.#### [Successful eShifter Repair S3](https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/)
+#### [Successful eShifter Repair S3](https://www.reddit.com/r/vanmoofbicycle/comments/15085mg/successful_eshifter_repair_s3/)
 
 #### [S3 with Shimano Alfine manual gear shift - DIY Project](https://link.medium.com/fCEAVxWr8Ab)
 
